@@ -10,7 +10,7 @@ The projects are: <br>
 • Heart Disease Prediction <br>
 • Fake News DistilBERT vectors
 
-## Testing Research Methods
+## Testing research methods
 A folder containing smaller, unpolished files used to test research methods used in my final research project, where I modified the river library to implement novel drift detection methods in online learning for malware opcodes. Note that my final research code is not published since my paper has not yet been published yet. More info about each individual file can be found in the ipynb notebooks. <br>
 
 The files are: <br>
