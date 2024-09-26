@@ -1,5 +1,5 @@
 # nsf-reu-smaller-files
-Smaller practice files used to learn and test different methodologies. 
+Smaller practice files used to learn and test different methodologies. These files were all created and finalized before the upload timestamp on Github.
 
 ## Smaller projects
 A folder which contains five mini-projects used to practice my data science skills. Slightly more detail about each project can be seen in the ipynb notebooks.<br> <br>
